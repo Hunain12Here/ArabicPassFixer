@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>looogo.png</file>
+    </qresource>
+</RCC>
